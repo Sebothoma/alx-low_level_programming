@@ -13,7 +13,7 @@ e = 'e';
 q = 'q';
 for (low = 'a'; low <= 'z'; low++)
 {
-if(low != e && low != q)
+if (low != e && low != q)
 putchar(low);
 }
 putchar('\n');
