@@ -3,13 +3,13 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Print a text according to number
  * Return: Always 0 (success)
  */
 int main(void)
 {
 srand(time(0));
-n = rand(0) - RAND_MAX / 2;
+n = rand() - RAND_MAX / 2;
 lastd = n % 10;
 if (lastd > 5)
 {printf("Last digit of %d is %d and is greater than 5\n", n, lastd);
