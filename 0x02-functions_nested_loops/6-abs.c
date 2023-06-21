@@ -5,6 +5,7 @@
  * _abs - computes the absolute valueof an interger.
  * @c: the number to be computed
  * Return: absolute value of number or zero
+ */
 
 in _ab(int c)
 {
