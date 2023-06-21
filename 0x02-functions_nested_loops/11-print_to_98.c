@@ -8,8 +8,8 @@
  * Return: always 0
  */
 
-int print_to_98(void)
-int n;
+void print_to_98(int n);
+
 {
 if (n <= 98)
 {
