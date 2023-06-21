@@ -7,7 +7,7 @@
  * Return: absolute value of number or zero
  */
 
-in _ab(int c)
+int _ab(int c)
 {
 if (c < 0)
 {
