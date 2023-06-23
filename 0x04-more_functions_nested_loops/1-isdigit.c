@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -9,7 +9,7 @@
 
 int _isdigit(int x)
 {
-if (x >= 40 && <= 57)
+if (x >= 40 && x <= 57)
 {
 return (1);
 }
