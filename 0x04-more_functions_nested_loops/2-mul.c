@@ -7,7 +7,7 @@
  * Return: the result of multiplication between x param and y param
  */
 
-int mul(intx, int y)
+int mul(int x, int y)
 {
 return (x + y);
 }
