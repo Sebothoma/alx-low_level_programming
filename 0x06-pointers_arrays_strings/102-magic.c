@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include "main.h"
+
 /*
  * write your line of code here...
  * Remember:
